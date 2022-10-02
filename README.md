@@ -1,11 +1,11 @@
 ### Electronics engineer
 
-- I’m currently working on HMC as EV:blue_car:  traction inverter engineer
+- I’m currently working on Samsung Electronics
 
 ### Interest
 
 - Circuit design automation / optimization
-- Power semiconductor drive 
+- Power semiconductor drive / protection
 
 <div align=center>
   
