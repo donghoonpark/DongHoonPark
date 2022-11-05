@@ -4,8 +4,9 @@
 
 ### Interest
 
-- Circuit design automation / optimization
-- Power semiconductor drive / protection
+- Electronics hardware related to semiconductor manufacturing
+- Power integrity verification
+- Protection system
 
 <div align=center>
   
