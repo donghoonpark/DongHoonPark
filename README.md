@@ -1,12 +1,12 @@
 ### Electronics engineer
 
-- I’m currently working on Samsung Electronics
+- I’m currently working on Samsung Electronics DS (Device Solution)
 
 ### Interest
 
 - Electronics hardware related to semiconductor manufacturing
-- Power integrity verification
-- Protection system
+- Power integrity design & verification
+- Protection system development
 
 <div align=center>
   
