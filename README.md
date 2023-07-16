@@ -1,12 +1,19 @@
-### Electronics engineer
+# Electronics Hardware Engineer
+## Professional Experience
+- Hyundai Motors EV Powertrain Department
+- Samsung Electronics DS Memory Business
 
-- I’m currently working on Samsung Electronics DS (Device Solution)
+## Electronics Hardware Engineer
 
-### Interest
+- Circuit design & test, specialized to those with high power capabilities.
+- Proficient experience in controller design including DSP and RTOS for embedded systems.
+- Specializing in power electronics.
 
-- Electronics hardware related to semiconductor manufacturing
-- Power integrity design & verification
-- Protection system development
+## Areas of Interest
+- Factory automation.
+- Power integrity design and verification.
+- Protection system development.
+- Plasma drive (Generator, Matcher, Resonant converter).
 
 <div align=center>
   
