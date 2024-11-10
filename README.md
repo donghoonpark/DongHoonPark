@@ -1,7 +1,7 @@
 # Electronics Hardware Engineer
 ## Professional Experience
+- Samsung Electronics DS
 - Hyundai Motors EV Powertrain Department
-- Samsung Electronics DS Memory Business
 
 ## Electronics Hardware Engineer
 
