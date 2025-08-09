@@ -1,6 +1,6 @@
 # Electronics Hardware Engineer
 ## Professional Experience
-- Samsung Electronics DS
+- Samsung Electronics DS Fab Automation Department
 - Hyundai Motors EV Powertrain Department
 
 ## Electronics Hardware Engineer
@@ -10,7 +10,7 @@
 - Specializing in power electronics.
 
 ## Areas of Interest
-- Factory automation.
+- Factory automation. (Servo system, Robotics, Inspection machine, ... etc)
 - Power integrity design and verification.
 - Protection system development.
 - Plasma drive (Generator, Matcher, Resonant converter).
