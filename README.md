@@ -1,7 +1,8 @@
 # Electronics Hardware Engineer
 ## Professional Experience
-- Samsung Electronics DS Fab Automation Department
-- Hyundai Motors EV Powertrain Department
+- Samsung Electronics DS Fab Automation Developer
+- Hyundai Motors EV Powertrain Developer
+- Koh Young Technology Vision Inspection Machine Developer
 
 ## Electronics Hardware Engineer
 
